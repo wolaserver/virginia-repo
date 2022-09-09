@@ -6,6 +6,7 @@ date: 2022-04-04 08:17
 description: LinkedIn suma de media 2 usuarios nuevos en el mundo cada segundo,
   desde que nació, en mayo de 2003, se ha convertido en la red social
   profesional por excelencia.
+featuredImage: /assets/124126-1920w.webp
 ---
 LinkedIn suma de media **2 usuarios nuevos en el mundo cada segundo,** desde que nació, en mayo de 2003, se ha convertido en la red social profesional por excelencia.
 
