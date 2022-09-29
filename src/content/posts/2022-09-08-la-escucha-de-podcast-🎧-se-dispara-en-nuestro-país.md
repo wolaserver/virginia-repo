@@ -5,7 +5,7 @@ slug: la-escucha-de-podcast-se-dispara-en-nuestro-pais
 date: 2022-09-08 10:00
 description: La televisión continúa su lento pero inevitable retroceso como
   fuente de información, sustituida por formatos como el podcast y las redes
-  sociales.
+  sociales
 featuredImage: /assets/podcast-1920w.webp
 ---
 📺 La televisión continúa su lento pero inevitable retroceso como fuente de información, sustituida por formatos como el podcast y las redes sociales.
